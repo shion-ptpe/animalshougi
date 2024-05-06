@@ -1,0 +1,7 @@
+[project]
+name = "animalshougi"
+description = "Animal shougi"
+version = "2023061601"
+
+[tool.setuptools]
+package-dir = {"" = "animalshougi"}
